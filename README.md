@@ -1,64 +1,67 @@
-# Guides and references 📙
-  
-- [Programming Paradigms](https://github.com/hernandoabella/programming-paradigms)
-- [Soft Skills](https://github.com/hernandoabella/soft-skills)
+# Guides and References 📙
+A collection of valuable resources on Software Development.
+
+- [👨‍💻 Programming Paradigms](https://github.com/hernandoabella/programming-paradigms)
+- [🌱 Soft Skills](https://github.com/hernandoabella/soft-skills)
 - [🧹 Clean Code](https://github.com/hernandoabella/clean-code)
-- [Object Oriented Programming](https://github.com/hernandoabella/object-oriented-programming)
-- [Design Principles](https://github.com/hernandoabella/design-principles)
-- [Data Structures and Algorithms](https://github.com/hernandoabella/data-structures-and-algorithms)
-- [Testing](https://github.com/hernandoabella/testing)
-- [Version Control](https://github.com/version-control)
-- [Software Development Life Cycle](https://github.com/hernandoabella/software-development-life-cycle)
-- [Design Patterns](https://github.com/hernandoabella/design-patterns)
-- [Concurrency and parallelism](https://github.com/hernandoabella/concurrency-and-parallelism)
-- [Networking](https://github.com/hernandoabella/networking)
-- [Databases](https://github.com/databases)
-- [Security](https://github.com/hernandoabella/security)
-- [CI/CD](https://github.com/hernandoabella/ci-cd)
-- [Containerization and Orchestration](https://github.com/hernandoabella/containerization-and-orchestration)
-- [Cloud Computing](https://github.com/hernandoabella/cloud-computing)
-- [UI/UX](https://github.com/hernandoabella/ui-ux)
-- [HTML](https://github.com/hernandoabella/html)
-- [CSS](https://github.com/hernandoabella/css)
-- [Game Development](https://github.com/hernandoabella/game-development)
-- Mobile Application Development (iOS and Android)
-- Microservices
-- Serverless Computing
-- Machine Learning and AI
-- Natural Language Processing
-- Big Data and Analytics
-- Blockchain and Cryptocurrencies
-- Internet of Things (IoT)
-- Augmented Reality (AR) and Virtual Reality (VR)
-- Robotics
-- Quantum Computing
-- Accessibility and Inclusive Design
-- Agile Methodologies
-- Project Management
-- Technical Writing and Documentation
-- Open-Source Software Development
-- Ethical Hacking and Cybersecurity
-- DevSecOps
-- Embedded Systems
-- Computer Graphics and Animation
+- [🏛 Object-Oriented Programming](https://github.com/hernandoabella/object-oriented-programming)
+- [🎨 Design Principles](https://github.com/hernandoabella/design-principles)
+- [📊 Data Structures and Algorithms](https://github.com/hernandoabella/data-structures-and-algorithms)
+- [🧪 Testing](https://github.com/hernandoabella/testing)
+- [🔄 Version Control](https://github.com/version-control)
+- [🔄 Software Development Life Cycle](https://github.com/hernandoabella/software-development-life-cycle)
+- [🔍 Design Patterns](https://github.com/hernandoabella/design-patterns)
+- [⚙️ Concurrency and Parallelism](https://github.com/hernandoabella/concurrency-and-parallelism)
+- [🌐 Networking](https://github.com/hernandoabella/networking)
+- [💾 Databases](https://github.com/databases)
+- [🔐 Security](https://github.com/hernandoabella/security)
+- [🚀 CI/CD](https://github.com/hernandoabella/ci-cd)
+- [📦 Containerization and Orchestration](https://github.com/hernandoabella/containerization-and-orchestration)
+- [☁️ Cloud Computing](https://github.com/hernandoabella/cloud-computing)
+- [🎨 UI/UX](https://github.com/hernandoabella/ui-ux)
+- [🌐 HTML](https://github.com/hernandoabella/html)
+- [🎨 CSS](https://github.com/hernandoabella/css)
+- [🎮 Game Development](https://github.com/hernandoabella/game-development)
+- [📱 Mobile Application Development (iOS and Android)](https://github.com/hernandoabella/mobile-application-development)
+- [🗂 Microservices](https://github.com/hernandoabella/microservices)
+- [🔋 Serverless Computing](https://github.com/hernandoabella/serverless-computing)
+- [🤖 Machine Learning and AI](https://github.com/hernandoabella/machine-learning-ai)
+- [🗣 Natural Language Processing](https://github.com/hernandoabella/natural-language-processing)
+- [📊 Big Data and Analytics](https://github.com/hernandoabella/big-data-analytics)
+- [🔗 Blockchain and Cryptocurrencies](https://github.com/hernandoabella/blockchain-cryptocurrencies)
+- [📡 Internet of Things (IoT)](https://github.com/hernandoabella/iot)
+- [🕶 Augmented Reality (AR) and Virtual Reality (VR)](https://github.com/hernandoabella/ar-vr)
+- [🤖 Robotics](https://github.com/hernandoabella/robotics)
+- [⚛️ Quantum Computing](https://github.com/hernandoabella/quantum-computing)
+- [♿️ Accessibility and Inclusive Design](https://github.com/hernandoabella/accessibility-inclusive-design)
+- [📈 Agile Methodologies](https://github.com/hernandoabella/agile-methodologies)
+- [📋 Project Management](https://github.com/hernandoabella/project-management)
+- [✍️ Technical Writing and Documentation](https://github.com/hernandoabella/technical-writing-documentation)
+- [👨‍💻 Open-Source Software Development](https://github.com/hernandoabella/open-source-software-development)
+- [🛡 Ethical Hacking and Cybersecurity](https://github.com/hernandoabella/ethical-hacking-cybersecurity)
+- [🔒 DevSecOps](https://github.com/hernandoabella/devsecops)
+- [🛠 Embedded Systems](https://github.com/hernandoabella/embedded-systems)
+- [🎥 Computer Graphics and Animation](https://github.com/hernandoabella/computer-graphics-animation)
+
 #### Programming Languages 💻:
-- [JavaScript](https://github.com/hernandoabella/javascript)
-- [TypeScript](https://github.com/hernandoabella/typescript)
-- [Java](https://github.com/hernandoabella/java)
-- [Python](https://github.com/hernandoabella/python)
-- [C](https://github.com/hernandoabella/c)
-- [C++](https://github.com/hernandoabella/cpp)
-- [C#](https://github.com/hernandoabella/c-sharp)
-- [Ruby](https://github.com/hernandoabella/ruby)
-- [Go](https://github.com/hernandoabella/go)
-- [PHP](https://github.com/hernandoabella/php)
-- [Swift](https://github.com/hernandoabella/swift)
-- [Kotlin](https://github.com/hernandoabella/kotlin)
-- [Rust](https://github.com/hernandoabella/rust)
-- [Dart](https://github.com/hernandoabella/dart)
-- [Clojure](https://github.com/hernandoabella/clojure)
-- [Scala](https://github.com/hernandoabella/scala)
-- [Haskell](https://github.com/hernandoabella/haskell)
-- [Perl](https://github.com/hernandoabella/perl)
-- [Elixir](https://github.com/hernandoabella/elixir)
-- [Julia](https://github.com/hernandoabella/julia)
+
+- [💻 JavaScript](https://github.com/hernandoabella/javascript)
+- [🛠 TypeScript](https://github.com/hernandoabella/typescript)
+- [☕️ Java](https://github.com/hernandoabella/java)
+- [🐍 Python](https://github.com/hernandoabella/python)
+- [💾 C](https://github.com/hernandoabella/c)
+- [➕ C++](https://github.com/hernandoabella/cpp)
+- [⚙️ C#](https://github.com/hernandoabella/c-sharp)
+- [💎 Ruby](https://github.com/hernandoabella/ruby)
+- [🏎 Go](https://github.com/hernandoabella/go)
+- [🐘 PHP](https://github.com/hernandoabella/php)
+- [🍏 Swift](https://github.com/hernandoabella/swift)
+- [🔷 Kotlin](https://github.com/hernandoabella/kotlin)
+- [🦀 Rust](https://github.com/hernandoabella/rust)
+- [🎯 Dart](https://github.com/hernandoabella/dart)
+- [🌀 Clojure](https://github.com/hernandoabella/clojure)
+- [🛡 Scala](https://github.com/hernandoabella/scala)
+- [🎩 Haskell](https://github.com/hernandoabella/haskell)
+- [🐫 Perl](https://github.com/hernandoabella/perl)
+- [⚗️ Elixir](https://github.com/hernandoabella/elixir)
+- [🔬 Julia](https://github.com/hernandoabella/julia)
