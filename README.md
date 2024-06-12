@@ -13,7 +13,7 @@ A collection of valuable resources on Software Development.
 - [🔍 Design Patterns](https://github.com/hernandoabella/design-patterns)
 - [⚙️ Concurrency and Parallelism](https://github.com/hernandoabella/concurrency-and-parallelism)
 - [🌐 Networking](https://github.com/hernandoabella/networking)
-- [💾 Databases](https://github.com/databases)
+- [💾 Databases](https://github.com/hernandoabella/databases)
 - [🔐 Security](https://github.com/hernandoabella/security)
 - [🚀 CI/CD](https://github.com/hernandoabella/ci-cd)
 - [📦 Containerization and Orchestration](https://github.com/hernandoabella/containerization-and-orchestration)
