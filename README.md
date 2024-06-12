@@ -8,7 +8,7 @@ A collection of valuable resources on Software Development.
 - [🎨 Design Principles](https://github.com/hernandoabella/design-principles)
 - [📊 Data Structures and Algorithms](https://github.com/hernandoabella/data-structures-and-algorithms)
 - [🧪 Testing](https://github.com/hernandoabella/testing)
-- [🔄 Version Control](https://github.com/version-control)
+- [🔄 Version Control](https://github.com/hernandoabella/version-control)
 - [🔄 Software Development Life Cycle](https://github.com/hernandoabella/software-development-life-cycle)
 - [🔍 Design Patterns](https://github.com/hernandoabella/design-patterns)
 - [⚙️ Concurrency and Parallelism](https://github.com/hernandoabella/concurrency-and-parallelism)
